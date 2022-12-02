@@ -105,7 +105,7 @@ h1 {
 
 .split.right,
 .split.left,
-.split:right::before,
+.split.right::before,
 .split.left::before {
   transition: all var(--speed) ease-in-out;
 }
